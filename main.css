@@ -25,7 +25,6 @@ font-family:"Shift",sans-serif;
  }
  
 .jumbotron {
-  height:600;
   background-image:url('http://goo.gl/5FTPrP');
   background-size:cover;
   background-repeat:no-repeat;
@@ -33,7 +32,7 @@ font-family:"Shift",sans-serif;
  
  .jumbotron .container { 
   position: relative;
-  left:-200px;
+  //left:-200px;
   
  }
  
@@ -52,19 +51,29 @@ font-family:"Shift",sans-serif;
   
   
   .thumbnail img {
- min-height:250px;
+ min-height:200px;
   }
   
-  .subjects p1
+  .areas p1
   {
   color:white;
   font-size:20px;
   font-family:'Shift',serif;
    }
    
- .subjects .thumbnails
+ .areas .thumbnails
  {
  background-size:cover;
  height:200px;
  width:300px;
   }
+
+  .areas .subjects 
+  {display:none;
+   }
+   
+   .areas li
+   {
+   color:blue;
+   font-family:arial,sans-serif;
+    }
