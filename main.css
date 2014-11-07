@@ -25,9 +25,10 @@ font-family:"Shift",sans-serif;
  
  
 .jumbotron {
-  height:900px;
-  background-image:url('http://goo.gl/NJq1J2');
+  height:600;
+  background-image:url('http://goo.gl/5FTPrP');
   background-size:cover;
+  background-repeat:no-repeat;
  }
  
  .jumbotron .container { 
@@ -38,13 +39,13 @@ font-family:"Shift",sans-serif;
  
  .jumbotron p
  {
-  color:#fff;
+  color:#000;
   font-weight:bold;
   font-family:sans-serif;
   }
   
   .jumbotron h1
   {
-  color:#fff;
+  color:#000;
   font-family:serif; 
   }
