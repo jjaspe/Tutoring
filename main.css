@@ -53,5 +53,9 @@ font-family:"Shift",sans-serif;
    display:none;
   }
   
+  .jumbotron .active-slide {
+   display:block;
+  }
+  
   
   
