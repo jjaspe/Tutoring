@@ -50,30 +50,4 @@ font-family:"Shift",sans-serif;
   }
   
   
-  .thumbnail img {
- min-height:200px;
-  }
   
-  .areas p1
-  {
-  color:white;
-  font-size:20px;
-  font-family:'Shift',serif;
-   }
-   
- .areas .thumbnails
- {
- background-size:cover;
- height:200px;
- width:300px;
-  }
-
-  .areas .subjects 
-  {display:none;
-   }
-   
-   .areas li
-   {
-   color:blue;
-   font-family:arial,sans-serif;
-    }
