@@ -3,8 +3,8 @@
 
 body {background-color:black;}
 
-.nav {
-background-color:black;
+.nav{
+background-color: #000000;
 height:50px;
  }
  
@@ -22,13 +22,17 @@ padding-left:40px;
 font-size:24px;
 font-family:sans-serif;
  }
+
+.title {
+    color:white;
+    font-family: "serif";
+    padding-bottom: 50px;
+}
  
 .slider {
-
     position:relative;
     width:100%;
-    height:500px;
-
+    height:300px;
  }
 
 .slide {
@@ -41,39 +45,25 @@ font-family:sans-serif;
 }
 
 .active-slide{
-    display: none;
+    display: block;
 }
 
-img {
-    max-width: 500px;
+.sub-subjects{
+    color: #1a60c9;
+}
+
+.thumbnail{
+    background-color: #1a60c9;
+}
+
+.thumbnail img{
+    min-height: 200px;
 }
  .container {
-     width:100%;
+     width:960px;
+     border-width: 5px;
+     border-color: #ffffff;
  }
-<<<<<<< HEAD
- 
- .jumbotron p
- {
-  color:#000;
-  font-weight:bold;
-  font-family:sans-serif;
-  }
-  
-  .jumbotron h1
-  {
-  color:#000;
-  font-family:serif; 
-  }
-  
-  .jumbotron .slide {
-   display:none;
-  }
-  
-  .jumbotron .active-slide {
-   display:block;
-  }
-  
-=======
 
  .slider-nav {
      text-align: center;
@@ -85,6 +75,5 @@ img {
      display: inline-block;
  }
 
->>>>>>> origin/master
   
   
