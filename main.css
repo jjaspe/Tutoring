@@ -41,6 +41,10 @@ font-family:"Shift",sans-serif;
 .active-slide{
     display: block;
 }
+
+img {
+    max-width: 500px;
+}
  .container {
      width:100%;
  }
