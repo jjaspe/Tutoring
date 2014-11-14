@@ -50,30 +50,6 @@ img {
  .container {
      width:100%;
  }
-<<<<<<< HEAD
- 
- .jumbotron p
- {
-  color:#000;
-  font-weight:bold;
-  font-family:sans-serif;
-  }
-  
-  .jumbotron h1
-  {
-  color:#000;
-  font-family:serif; 
-  }
-  
-  .jumbotron .slide {
-   display:none;
-  }
-  
-  .jumbotron .active-slide {
-   display:block;
-  }
-  
-=======
 
  .slider-nav {
      text-align: center;
@@ -85,6 +61,5 @@ img {
      display: inline-block;
  }
 
->>>>>>> origin/master
   
   
