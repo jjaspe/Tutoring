@@ -41,7 +41,7 @@ font-family:sans-serif;
 }
 
 .active-slide{
-    display: block;
+    display: none;
 }
 
 img {
